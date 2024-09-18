@@ -1,0 +1,8 @@
+site_name: Insertion Sort
+theme:
+ name: material
+nav:
+ - Home: index.md
+ - API: api.md
+plugins:
+ - mkdocstrings:
